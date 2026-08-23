@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1927-sum-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->

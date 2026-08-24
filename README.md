@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -39,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1927-sum-game) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->

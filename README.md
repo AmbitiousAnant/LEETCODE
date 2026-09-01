@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0706-design-hashmap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1472-design-browser-history](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1472-design-browser-history) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0706-design-hashmap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -59,17 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0706-design-hashmap) |
 ## Stack
 |  |
 | ------- |

@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0058-length-of-last-word) |
 | [1927-sum-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy

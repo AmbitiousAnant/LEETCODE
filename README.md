@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0706-design-hashmap) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1472-design-browser-history](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0706-design-hashmap) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->

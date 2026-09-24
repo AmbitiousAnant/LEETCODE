@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0189-rotate-array) |
 | [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0189-rotate-array) |
 | [0492-construct-the-rectangle](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |

@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0189-rotate-array) |
 | [0492-construct-the-rectangle](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
 |  |

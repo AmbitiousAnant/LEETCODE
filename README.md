@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0189-rotate-array) |
 | [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0706-design-hashmap) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1472-design-browser-history](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1472-design-browser-history) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1927-sum-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3870-count-commas-in-range) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0050-powx-n) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
 |  |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |

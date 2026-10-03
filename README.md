@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2762-continuous-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2762-continuous-subarrays) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2762-continuous-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2762-continuous-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2762-continuous-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2762-continuous-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,4 +229,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2762-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2762-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2762-continuous-subarrays) |
 <!---LeetCode Topics End-->

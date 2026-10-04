@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2762-continuous-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2762-continuous-subarrays) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0022-generate-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Backtracking
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2762-continuous-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2762-continuous-subarrays) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Binary Search
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2762-continuous-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2762-continuous-subarrays) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Ordered Set
 |  |
 | ------- |
@@ -241,4 +245,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2762-continuous-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2762-continuous-subarrays) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 <!---LeetCode Topics End-->

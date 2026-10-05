@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1991-find-the-middle-index-in-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2762-continuous-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2762-continuous-subarrays) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3904-smallest-stable-index-ii) |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0067-add-binary) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0189-rotate-array) |
 | [0492-construct-the-rectangle](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0067-add-binary) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1927-sum-game) |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

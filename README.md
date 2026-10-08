@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0067-add-binary) |
+| [1021-remove-outermost-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1927-sum-game) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [1021-remove-outermost-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1472-design-browser-history](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue

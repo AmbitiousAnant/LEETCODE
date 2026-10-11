@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2762-continuous-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2762-continuous-subarrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers

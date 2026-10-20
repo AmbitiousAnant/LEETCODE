@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Doubly-Linked List
 |  |
 | ------- |

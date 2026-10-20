@@ -1,29 +1,21 @@
 class Solution {
 public:
     string resultingString(string s) {
-        stack<char> st;
-        string m = "";
+        string ans = ""; 
         
-        for(int i = 0; i < s.length(); i++) {
-            if(!st.empty()) {
-                int diff = abs(st.top() - s[i]);
+        for (int i = 0; i < s.length(); i++) {
+            if (!ans.empty()) {
+                int diff = abs(ans.back() - s[i]);
                 
-                if(diff == 1 || diff == 25) {
-                    st.pop(); 
+                if (diff == 1 || diff == 25) {
+                    ans.pop_back(); 
                     continue; 
                 }
             }
             
-            st.push(s[i]);
+            ans.push_back(s[i]);
         }
         
-        while(!st.empty()){
-            m += st.top();
-            st.pop();
-        }
-        
-        reverse(m.begin(), m.end());
-        
-        return m;
+        return ans;
     }
 };

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0933-number-of-recent-calls) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |

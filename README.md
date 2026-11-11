@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0268-missing-number) |
+| [0390-elimination-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0390-elimination-game) |
 | [0492-construct-the-rectangle](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0050-powx-n) |
+| [0390-elimination-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0390-elimination-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmbitiousAnant/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database

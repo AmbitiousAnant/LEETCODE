@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0268-missing-number) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AmbitiousAnant/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmbitiousAnant/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/AmbitiousAnant/LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Backtracking
